@@ -1,0 +1,62 @@
+.div1{
+    background-color: #e2f5f9;
+    width: 900px;
+    height: 300px;
+}
+.div2{
+    background-color: white;
+    width: 700px;
+    height: 180px;
+    position: relative;
+    top: 20%;
+    left: 10%;
+    border: red solid;   
+}
+.div3{
+    width: 700px;
+    border-color: red;
+    border-style: solid hidden hidden hidden;
+    position: relative;
+    top: 65%;
+}
+.h1{
+    color: green;
+    font-size: medium;
+}
+.p2{
+    font-size: medium;
+    position: relative;
+    left: 14%;
+    bottom: 25%;
+}
+.img1{
+    position: absolute;
+    left: 76%;
+    top: -200px;
+}
+.div4{
+     width: 700px;
+    border-color: red;
+    border-style: hidden hidden hidden solid;
+    position: relative;
+    top: 40%;
+    
+}
+.div5{
+    width: 700px;
+   border-color: red;
+   border-style: hidden hidden hidden solid;
+   position: absolute;
+   top: -10%;
+   
+}
+.div6{
+    width: 1200px;
+   border-color: red;
+   border-style: hidden solid hidden hidden;
+   position: relative;
+   top: -48%;
+   right: 65%;
+   height: 120px;
+   
+}

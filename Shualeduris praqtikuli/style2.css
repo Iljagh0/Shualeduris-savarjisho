@@ -1,0 +1,44 @@
+.div1{
+    background-color: #cccccc;
+  width: 800px;
+  border: 3px solid #cccccc;
+  padding: 50px;
+  margin: 20px;
+  height: 80px;
+
+}
+.div2{
+    width: 250px;
+    height: 120px;
+    background-color: #ffff00;
+    border: dashed red;
+    border-width: 6px;
+    position: relative;
+    bottom: 50%;
+
+}
+.div3{
+    width: 250px;
+    height: 120px;
+    background-color: #ffff00;
+    border: red;
+    border-style: dashed hidden dashed solid;
+    border-color: red green blue;
+    border-width: 6px;
+    position: relative;
+    bottom: 210%;
+    left: 50%;
+
+}
+.div4{
+    width:20px;
+    height:0px;
+    border-style: dashed dashed dashed solid;
+    border-color: red yellow blue green;
+    border-width: 30px;
+    position: relative;
+    bottom: 310%;
+    left: 92%;
+
+}
+
